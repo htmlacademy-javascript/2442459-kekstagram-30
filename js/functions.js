@@ -50,3 +50,6 @@ extractNumber('ECMAScript 2022');
 extractNumber('1 кефир, 0.5 батона');
 extractNumber('агент 007');
 extractNumber('а я томат');
+extractNumber(2023);
+extractNumber(-1);
+extractNumber(1.5);
